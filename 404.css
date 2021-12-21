@@ -24,6 +24,7 @@
 
 .u-section-1 .u-text-2 {
   width: 198px;
+  animation-duration: 1000ms;
   margin: -60px auto 0;
 }
 
@@ -31,6 +32,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
+  animation-duration: 1000ms;
   margin: 32px auto 60px;
   padding: 6px 31px 6px 30px;
 }

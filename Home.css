@@ -16,6 +16,7 @@
   font-weight: 700;
   text-transform: uppercase;
   text-shadow: 2px 2px 32px rgba(255,255,255,0.4);
+  animation-duration: 1000ms;
   margin: 65px 384px 0 388px;
 }
 
